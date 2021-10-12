@@ -2,13 +2,11 @@
 English Dictionary App
 
 # About the Project :-
-I made an English Dictionary App where we have to search the words and we will get meaning, synonyms and examples of that word. One more interesting feature is an audio where we can get the pronunciation of the word.
+Build Dictionary App in HTML CSS & JavaScript. In this dictionary app, you can search any word and get the meaning, example, synonyms, etc. of the searched word. One more interesting feature is an audio where we can get the pronunciation of the word.
+
 
 # Tech stacks used:-
-HTML, CSS, JavaScript, API
-
-# API Used:-
-https://api.dictionaryapi.dev
+HTML, CSS, JavaScript
 
 # GitHub Link:-
 https://github.com/Saurabh0786/English-Dictionary-App
